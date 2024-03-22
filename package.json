@@ -1,0 +1,32 @@
+{
+  "name": "aspernaturadipisci",
+  "version": "1.0.0",
+  "description": "The vanilla JavaScript ES6 minimalistic toast pup-up messages module for your project.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CharleyKuhlman/aspernaturadipisci.git"
+  },
+  "keywords": [
+    "toast",
+    "toasts",
+    "animi",
+    "toaster",
+    "itaque",
+    "hint",
+    "module",
+    "impedit",
+    "message",
+    "nulla"
+  ],
+  "author": "PatrickGaylord",
+  "license": "MIT",
+  "homepage": "https://github.com/CharleyKuhlman/aspernaturadipisci.git",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "node-sass": "^7.0.0",
+    "webpack": "^2.3.3"
+  }
+}
